@@ -1,2 +1,6 @@
 images/
 cv_model*
+flickr30k_images
+vit_features
+images_8k/*
+me.jpg

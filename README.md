@@ -5,4 +5,5 @@ In this notebook, I train an image captioning model roughly based on the injecti
 The notebook flikr8k_all_descriptions is the "main" notebook. flikr8k_all_descriptions_cross_val.ipynb is a notebook I use for cross validation and testing other tweaks to preprocessing, etc.
 
 # To do
-Putting this particular project on hold. I may do more cross validation, but previously, it has been very time consuming with little relative improvements to performance.
+I am currently testing models on Flickr30k, including a model that uses a pretrained ViT as an image encoder.
+I may do more cross validation, but previously, it has been very time consuming with little relative improvements to performance.
