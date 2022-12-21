@@ -2,5 +2,7 @@ images/
 cv_model*
 flickr30k_images
 vit_features
-images_8k/*
+images_8k/
 me.jpg
+30k_*
+checkpoint
